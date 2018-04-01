@@ -1,4 +1,4 @@
-[docs](../../README.md) >
+[docs](../README.md) >
 motion
 
 # Motion
