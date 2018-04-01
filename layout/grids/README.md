@@ -4,4 +4,4 @@ grids
 
 # Grids
 
-- [Baseline](grids/baseline/README.md)
+- [Baseline](baseline/README.md)
